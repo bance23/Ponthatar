@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Termeny", "Termeny\Termeny.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hianyzas", "hianyzas\hianyzas.csproj", "{8C861E6D-0EAA-4D07-B297-92DFEF6A0B04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bmi", "bmi\bmi.csproj", "{294B522B-6CB4-4EFB-9C04-E84EE2470108}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8C861E6D-0EAA-4D07-B297-92DFEF6A0B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C861E6D-0EAA-4D07-B297-92DFEF6A0B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C861E6D-0EAA-4D07-B297-92DFEF6A0B04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294B522B-6CB4-4EFB-9C04-E84EE2470108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294B522B-6CB4-4EFB-9C04-E84EE2470108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294B522B-6CB4-4EFB-9C04-E84EE2470108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294B522B-6CB4-4EFB-9C04-E84EE2470108}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
